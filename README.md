@@ -7,10 +7,6 @@
 - 🍎 **Planificación Nutricional**
 - 📊 **Monitoreo y Ajustes**
 - 🛌 **Recuperación Optimizada**
-![GitHub issues](https://img.shields.io/github/issues/usuario/repo)
-![GitHub forks](https://img.shields.io/github/forks/usuario/repo)
-![GitHub stars](https://img.shields.io/github/stars/usuario/repo)
-![GitHub license](https://img.shields.io/github/license/usuario/repo)
 
 
 # ![Logo](logo.jpg)
