@@ -2,8 +2,14 @@
 # Asistente Virtual para Crecimiento Muscular
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## Características Principales
+- 🚀 **Recomendaciones de Entrenamiento**
+- 🍎 **Planificación Nutricional**
+- 📊 **Monitoreo y Ajustes**
+- 🛌 **Recuperación Optimizada**
 
 # ![Logo](logo.jpg)
+
 ## Contenidos
 -[Descripción del Problema](#descripción-del-problema)
 -[Solución Propuesta](#solución-propuesta)
@@ -15,14 +21,6 @@
 -[Nutrición](#nutrición)
 -[Descanso y Recuperación](#descanso-y-recuperación)
 -[Consejos Adicionales](#consejos-adicionales)
-
-## Instalación
-
-```bash
-git clone https://github.com/usuario/repo.git
-cd repo
-pip install -r requirements.txt.
-
 
 ## Descripción del Problema
 
