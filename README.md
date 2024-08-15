@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 # ![Logo](logo.jpg)
-## Tabla de Contenidos
+## Contenidos
 -[Descripción del Problema](#descripción-del-problema)
 -[Solución Propuesta](#solución-propuesta)
 -[Justificación de la Viabilidad del Proyecto](#justificación-de-la-viabilidad-del-proyecto)
