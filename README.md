@@ -1,5 +1,8 @@
 
 # Asistente Virtual para Crecimiento Muscular
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 # ![Logo](logo.jpg)
 
 ## Descripción del Problema
