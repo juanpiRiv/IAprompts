@@ -1,5 +1,6 @@
-# ![Logo](logo.jpg)
+
 # Asistente Virtual para Crecimiento Muscular
+# ![Logo](logo.jpg)
 
 ## Descripción del Problema
 
