@@ -1,4 +1,4 @@
-# ![Logo]()
+# ![Logo](logo.jpg)
 # Asistente Virtual para Crecimiento Muscular
 
 ## Descripción del Problema
