@@ -16,6 +16,14 @@
 -[Descanso y Recuperación](#descanso-y-recuperación)
 -[Consejos Adicionales](#consejos-adicionales)
 
+## Instalación
+
+```bash
+git clone https://github.com/usuario/repo.git
+cd repo
+pip install -r requirements.txt.
+
+
 ## Descripción del Problema
 
 El desafío es aumentar la masa muscular de manera eficiente en un período corto. Muchos programas de entrenamiento y nutrición ofrecen resultados lentos o no personalizan las recomendaciones según las necesidades individuales del usuario, lo que puede llevar a frustración y falta de progreso, afectando la motivación y los resultados a largo plazo.
