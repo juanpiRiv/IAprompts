@@ -4,6 +4,17 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 # ![Logo](logo.jpg)
+## Tabla de Contenidos
+-1 [Descripción del Problema](#descripción-del-problema)
+-2 [Solución Propuesta](#solución-propuesta)
+-3 [Justificación de la Viabilidad del Proyecto](#justificación-de-la-viabilidad-del-proyecto)
+-4 [Cronograma Tentativo](#cronograma-tentativo)
+-5 [Retrospectiva a la Solución](#retrospectiva-a-la-solución)
+-6 [Prompts para la Implementación](#prompts-para-la-implementación)
+-7 [Plan de Entrenamiento](#plan-de-entrenamiento)
+-8 [Nutrición](#nutrición)
+-9 [Descanso y Recuperación](#descanso-y-recuperación)
+-10 [Consejos Adicionales](#consejos-adicionales)
 
 ## Descripción del Problema
 
