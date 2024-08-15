@@ -5,16 +5,16 @@
 
 # ![Logo](logo.jpg)
 ## Tabla de Contenidos
--1 [Descripción del Problema](#descripción-del-problema)
--2 [Solución Propuesta](#solución-propuesta)
--3 [Justificación de la Viabilidad del Proyecto](#justificación-de-la-viabilidad-del-proyecto)
--4 [Cronograma Tentativo](#cronograma-tentativo)
--5 [Retrospectiva a la Solución](#retrospectiva-a-la-solución)
--6 [Prompts para la Implementación](#prompts-para-la-implementación)
--7 [Plan de Entrenamiento](#plan-de-entrenamiento)
--8 [Nutrición](#nutrición)
--9 [Descanso y Recuperación](#descanso-y-recuperación)
--10 [Consejos Adicionales](#consejos-adicionales)
+-[Descripción del Problema](#descripción-del-problema)
+-[Solución Propuesta](#solución-propuesta)
+-[Justificación de la Viabilidad del Proyecto](#justificación-de-la-viabilidad-del-proyecto)
+-[Cronograma Tentativo](#cronograma-tentativo)
+-[Retrospectiva a la Solución](#retrospectiva-a-la-solución)
+-[Prompts para la Implementación](#prompts-para-la-implementación)
+-[Plan de Entrenamiento](#plan-de-entrenamiento)
+-[Nutrición](#nutrición)
+-[Descanso y Recuperación](#descanso-y-recuperación)
+-[Consejos Adicionales](#consejos-adicionales)
 
 ## Descripción del Problema
 
